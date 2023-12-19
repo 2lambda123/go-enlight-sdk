@@ -3,9 +3,9 @@ module github.com/SKF/go-enlight-sdk/v2
 go 1.19
 
 require (
-	github.com/SKF/go-utility/v2 v2.33.12
+	github.com/SKF/go-utility/v2 v2.33.17
 	github.com/SKF/proto/v2 v2.19.0-go
-	github.com/aws/aws-sdk-go v1.45.12
+	github.com/aws/aws-sdk-go v1.46.1
 	github.com/golang/protobuf v1.5.3
 	github.com/miekg/dns v1.1.57
 	github.com/pkg/errors v0.9.1
@@ -13,7 +13,7 @@ require (
 	go.opencensus.io v0.24.0
 	go.uber.org/zap v1.26.0
 	golang.org/x/text v0.13.0 // indirect
-	google.golang.org/grpc v1.58.1
+	google.golang.org/grpc v1.59.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.55.0
 )
 
@@ -32,9 +32,9 @@ require (
 	github.com/DataDog/go-tuf v1.0.2-0.5.2 // indirect
 	github.com/DataDog/sketches-go v1.4.2 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
-	github.com/SKF/go-enlight-middleware v0.8.5 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.41 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.35 // indirect
+	github.com/SKF/go-enlight-middleware v0.8.7 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.43 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.37 // indirect
 	github.com/aws/smithy-go v1.19.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
@@ -60,7 +60,7 @@ require (
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230711160842-782d3b101e98 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	inet.af/netaddr v0.0.0-20230525184311-b8eac61e914a // indirect
