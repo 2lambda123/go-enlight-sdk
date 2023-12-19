@@ -9,12 +9,12 @@ require (
 	github.com/SKF/go-utility/v2 v2.2.2
 	github.com/SKF/proto v1.27.1-go
 	github.com/aws/aws-sdk-go v1.34.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/text v0.13.0
-	google.golang.org/grpc v1.53.0
+	google.golang.org/grpc v1.56.3
 )
 
 require (
@@ -33,8 +33,8 @@ require (
 	go.uber.org/zap v1.14.1 // indirect
 	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
-	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
